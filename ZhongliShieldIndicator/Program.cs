@@ -9,7 +9,7 @@ namespace ZhongliShieldIndicator
 {
     internal static class Program
     {
-        public const string appid = "com.zyfdroid.zsi_v100000001";
+        public const string appid = "com.zyfdroid.zsi_v100114514";
         public static void makeFileExists(byte[] data, String filename)
         {
             if (!Directory.Exists(Path.GetDirectoryName(filename)))
